@@ -1,5 +1,5 @@
 # Simple-REST-api
 
-##Prerequisites
+## Prerequisites
 * Maven 3.x
-*Java 1.8.x
+* Java 1.8.x
